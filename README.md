@@ -11,6 +11,8 @@
 
 메인 화면과 앨범 사진 화면, 가사 화면으로 구성되있습니다.
 
+![initail](https://github.com/odyflame/Flo-Blind-app-Test/blob/master/Flo%20Demo%20ScreenShot.png)
+
 1. 메인 화면
  *  여기서는 음악 재생 화면이 나옵니다. 기업에서 준 [json](https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-flo/song.json) 주소를 사용하여 파싱을 한 다음 가수, 노래 제목, 앨범 이미지와 가사들이 나오도록 설정하였습니다.
  *  재생 버튼을 누르면 음악이 재생되며 가사가 알맞게 나오면서 싱크에 맞는 가사는 굵게, 그 다음 가사는 얇게 설정하였습니다.
